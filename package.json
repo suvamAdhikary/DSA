@@ -1,0 +1,22 @@
+{
+  "name": "dsa",
+  "version": "0.0.1",
+  "description": "DSA for All",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suvamAdhikary/DSA.git"
+  },
+  "keywords": [
+    "DSA"
+  ],
+  "author": "Suvam Adhikary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suvamAdhikary/DSA/issues"
+  },
+  "homepage": "https://github.com/suvamAdhikary/DSA#readme"
+}
