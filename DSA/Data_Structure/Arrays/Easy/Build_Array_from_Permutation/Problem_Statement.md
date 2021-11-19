@@ -1,3 +1,7 @@
+# Build Array from Permutation
+
+<br />
+
 ## Given a <b>zero-based permutation</b> nums <b>(0-indexed)</b>, build an array ans of the <b>same length</b> where ans[i] = nums[nums[i]] for each 0 <= i < nums.length and return it.
 
 <br />
