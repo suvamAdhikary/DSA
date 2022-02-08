@@ -8,7 +8,7 @@
 
 <br>
 
-## [LeadCoad](https://leetcode.com/problems/middle-of-the-linked-list/)
+## [Leetcode](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 <br>
 
