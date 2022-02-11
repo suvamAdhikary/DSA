@@ -4,7 +4,7 @@
 
 ### Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
- <br>
+<br>
 
 ## [LeetCode](https://leetcode.com/problems/contains-duplicate/) 
 
@@ -39,3 +39,12 @@ Output: true
 1 <= nums.length <= 105
 -109 <= nums[i] <= 109
 ```
+
+### Tags: [ARRAY](https://leetcode.com/tag/array/), [HASH TABLE](https://leetcode.com/tag/hash-table/), [SORTING](https://leetcode.com/tag/sorting/)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
